@@ -1,4 +1,4 @@
-<h1 align="center">Stockholm 1646: Järntorget</h1>
+<h1 align="center">Stockholm 1646</h1>
 
 <p align="center">
   <strong>Playtest builds</strong> - every playable snapshot of the game, straight from our workbench to yours.
@@ -16,7 +16,7 @@
   <a href="https://ratterstudios.com/sthlm-jrn"><img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4?style=flat&logo=windows&logoColor=white"></a>
 </p>
 
-This repository is where **Ratter Studios** hands playable builds of *Stockholm 1646: Järntorget* to playtesters.
+This repository is where **Ratter Studios** hands playable builds of *Stockholm 1646* to playtesters.
 
 > [!NOTE]
 > These are **work-in-progress development builds**, not a demo and not a finished game. Expect placeholder art, missing audio and the occasional crash, running into those is the entire point of you being here.
