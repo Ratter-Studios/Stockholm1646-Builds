@@ -79,7 +79,7 @@ Screenshots and clips help a lot. You can drag them straight into the thread.
 > [!NOTE]
 > No feedback is too small, and "it just felt off" is worth posting even if you cannot explain why. Try to write down your **first impressions** while they are still fresh.
 
-More about the game, concept art and development updates at **[ratterstudios.com/sthlm-jrn](https://ratterstudios.com/sthlm-jrn)**.
+More about the game, concept art and development updates at **[ratterstudios.com/sthlm1646](https://ratterstudios.com/sthlm1646)**.
 
 <p align="center">
   <br>
