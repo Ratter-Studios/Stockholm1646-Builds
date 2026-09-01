@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://discord.gg/rafM3mDBVC"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=flat&logo=discord&logoColor=white"></a>
   <a href="https://ratterstudios.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ratterstudios.com-DBA038?style=flat&logo=googlechrome&logoColor=white"></a>
-  <a href="https://ratterstudios.com/sthlm-jrn"><img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4?style=flat&logo=windows&logoColor=white"></a>
+  <a href="https://ratterstudios.com/sthlm1646"><img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4?style=flat&logo=windows&logoColor=white"></a>
 </p>
 
 This repository is where **Ratter Studios** hands playable builds of *Stockholm 1646* to playtesters.
