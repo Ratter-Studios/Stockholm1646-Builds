@@ -27,9 +27,6 @@ This repository is where **Ratter Studios** hands playable builds of *Stockholm 
 2. **Extract the whole folder** somewhere on your drive.
 3. Launch `Stockholm1646.exe`.
 
-> [!IMPORTANT]
-> Our builds are not code-signed, so Windows will most likely greet you with a blue **"Windows protected your PC"** box. Click **More info → Run anyway**. If your antivirus quarantines the folder instead, allow it or unpack somewhere else.
-
 > [!TIP]
 > Want a ping the moment a build lands? Hit **Watch → Custom → Releases** at the top of this page.
 
